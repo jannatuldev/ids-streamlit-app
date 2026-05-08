@@ -36,9 +36,9 @@ A production‑ready Network Intrusion Detection and Prevention System (NIDPS) t
 
 ---
 
-## 🔧 Installation & Environment Setup
+## Installation & Environment Setup
 
 ### Step 1: Clone the repository (or download files)
 ```bash
-git clone https://github.com/your-username/Sharingan-NIDS.git
+git clone https://github.com/jannatuldev/Sharingan-NIDS.git
 cd Sharingan-NIDS
