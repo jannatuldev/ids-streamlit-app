@@ -42,3 +42,24 @@ A production‑ready Network Intrusion Detection and Prevention System (NIDPS) t
 ```bash
 git clone https://github.com/jannatuldev/Sharingan-NIDS.git
 cd Sharingan-NIDS
+```
+### 2. Create and activate a virtual environment
+
+**Windows:**
+```bash
+python -m venv ids_env
+ids_env\Scripts\activate
+```
+**macOS/Linux:**
+```bash
+python3 -m venv ids_env
+source ids_env/bin/activate
+```
+### 3. Install required packages
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the IDS app
+```bash
+streamlit run app.py
+```
